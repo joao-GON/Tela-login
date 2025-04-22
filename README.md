@@ -59,6 +59,14 @@ tela-de-login-responsiva/
     ```
 5. Abra um pull request.
 
+## 🛠 Demonstração Desktop:
+![image](https://github.com/user-attachments/assets/bd048569-7968-4e4b-a15a-a2eadf9fdcd4)
+
+🛠 Demonstração Mobile:
+
+![image](https://github.com/user-attachments/assets/406bd0c9-1cbb-4718-b9a6-a9edc779284e)
+
+
 ## 📜 Licença
 Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
